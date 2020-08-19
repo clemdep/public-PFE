@@ -1,6 +1,6 @@
 ### 1. Purpose
-* This repository is intended to showcase the analysis I performed during my end of study project.
-* The subject of this project was "What factors influence the choice of elective courses of a European business school?"
+* This repository is intended to showcase the analysis I performed during master's thesis.
+* The subject of this thesis was "What factors influence the choice of elective courses of a European business school?"
 * Due to the sensitive nature of the data used within this analysis, the notebooks are provided without the data sources.
 
 ### 2. Usage
